@@ -1,4 +1,4 @@
-nombre = "Roll"
+nombre = "Gato"
 apellido="Rocky"
 
 saludo = "Hola " + nombre + " " + apellido + " ¿Cómo estás?" + "gala"
